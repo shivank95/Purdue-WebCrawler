@@ -1,0 +1,12 @@
+Set-Cookie: BIGipServer~WEB~pool_lppwebapa01.itap.purdue.edu_web=3070233098.0.0000; path=/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/two_column.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>College of Health and Human Sciences - Diversity</title>
+<!-- InstanceEndEditable -->
+
+ <!--<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="keywords" content="Purdue University, Boilermakers, Boilers, College, higher education, West Lafayette, Indiana, public schools, higher education, United States, Health and Human Sciences, HHS, Consumer Science, CSR, Health and Kinesiology, HK, Hospitality and Tourism Management, HTM, Health Sciences, HSCI, Nursing, NUR, Speech
